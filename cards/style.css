@@ -1,0 +1,51 @@
+.cards {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    width: 330px;
+    border: 2px solid lavender;
+    float: left;
+    margin-left: 40px;
+    margin-bottom: 50px;
+    text-align: center;
+
+}
+
+.cards img {
+    width: 300px;
+    height: 500px;
+
+}
+
+.cards button {
+    background-color: white;
+    color: black;
+    padding: 5px;
+    border-radius: 10px;
+    border: 2px solid grey;
+
+}
+
+.Products {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    width: 330px;
+    border: 2px solid lavender;
+    float: left;
+    margin-left: 40px;
+    margin-bottom: 50px;
+    text-align: center;
+
+}
+
+.Products img {
+    width: 300px;
+    height: 350px;
+}
+
+.Products button {
+    background-color: white;
+    color: black;
+    padding: 5px;
+    border-radius: 10px;
+    border: 2px solid grey;
+}
